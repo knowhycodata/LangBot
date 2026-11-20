@@ -140,6 +140,7 @@ docker compose --profile all up -d
 | [Dify](https://dify.ai) | LLMOps | ✅ |
 | [MCP](https://modelcontextprotocol.io/) | Protocolo | ✅ |
 | [SiliconFlow](https://siliconflow.cn/) | Pasarela | ✅ |
+| [LLMTR](https://llmtr.com/) | Pasarela | ✅ |
 | [Aliyun Bailian](https://bailian.console.aliyun.com/) | Pasarela | ✅ |
 | [Volc Engine Ark](https://console.volcengine.com/ark/region:ark+cn-beijing/model?vendor=Bytedance&view=LIST_VIEW) | Pasarela | ✅ |
 | [ModelScope](https://modelscope.cn/docs/model-service/API-Inference/intro) | Pasarela | ✅ |

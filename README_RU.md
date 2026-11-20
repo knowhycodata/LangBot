@@ -140,6 +140,7 @@ docker compose --profile all up -d
 | [Dify](https://dify.ai) | LLMOps | ✅ |
 | [MCP](https://modelcontextprotocol.io/) | Протокол | ✅ |
 | [SiliconFlow](https://siliconflow.cn/) | Шлюз | ✅ |
+| [LLMTR](https://llmtr.com/) | Шлюз | ✅ |
 | [Aliyun Bailian](https://bailian.console.aliyun.com/) | Шлюз | ✅ |
 | [Volc Engine Ark](https://console.volcengine.com/ark/region:ark+cn-beijing/model?vendor=Bytedance&view=LIST_VIEW) | Шлюз | ✅ |
 | [ModelScope](https://modelscope.cn/docs/model-service/API-Inference/intro) | Шлюз | ✅ |

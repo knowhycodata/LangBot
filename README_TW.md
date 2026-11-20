@@ -142,6 +142,7 @@ docker compose --profile all up -d
 | [Dify](https://dify.ai) | LLMOps | ✅ |
 | [MCP](https://modelcontextprotocol.io/) | 協議 | ✅ |
 | [SiliconFlow](https://siliconflow.cn/) | 聚合平台 | ✅ |
+| [LLMTR](https://llmtr.com/) | 聚合平台 | ✅ |
 | [阿里雲百煉](https://bailian.console.aliyun.com/) | 聚合平台 | ✅ |
 | [火山方舟](https://console.volcengine.com/ark/region:ark+cn-beijing/model?vendor=Bytedance&view=LIST_VIEW) | 聚合平台 | ✅ |
 | [ModelScope](https://modelscope.cn/docs/model-service/API-Inference/intro) | 聚合平台 | ✅ |

@@ -140,6 +140,7 @@ docker compose --profile all up -d
 | [Dify](https://dify.ai) | LLMOps | ✅ |
 | [MCP](https://modelcontextprotocol.io/) | プロトコル | ✅ |
 | [SiliconFlow](https://siliconflow.cn/) | ゲートウェイ | ✅ |
+| [LLMTR](https://llmtr.com/) | ゲートウェイ | ✅ |
 | [Aliyun Bailian](https://bailian.console.aliyun.com/) | ゲートウェイ | ✅ |
 | [Volc Engine Ark](https://console.volcengine.com/ark/region:ark+cn-beijing/model?vendor=Bytedance&view=LIST_VIEW) | ゲートウェイ | ✅ |
 | [ModelScope](https://modelscope.cn/docs/model-service/API-Inference/intro) | ゲートウェイ | ✅ |

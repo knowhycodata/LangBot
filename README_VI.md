@@ -140,6 +140,7 @@ docker compose --profile all up -d
 | [Dify](https://dify.ai) | LLMOps | ✅ |
 | [MCP](https://modelcontextprotocol.io/) | Giao thức | ✅ |
 | [SiliconFlow](https://siliconflow.cn/) | Cổng | ✅ |
+| [LLMTR](https://llmtr.com/) | Cổng | ✅ |
 | [Aliyun Bailian](https://bailian.console.aliyun.com/) | Cổng | ✅ |
 | [Volc Engine Ark](https://console.volcengine.com/ark/region:ark+cn-beijing/model?vendor=Bytedance&view=LIST_VIEW) | Cổng | ✅ |
 | [ModelScope](https://modelscope.cn/docs/model-service/API-Inference/intro) | Cổng | ✅ |
